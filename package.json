@@ -1,0 +1,25 @@
+{
+  "name": "json-credentials",
+  "version": "1.0.0",
+  "description": "A package to serialize and deserialize credential format file",
+  "main": "index.js",
+  "homepage": "https://github.com/zongUMR/json-credentials",
+  "repository": {
+    "type": "git",
+    "url": "git+git+https://github.com/myogeshchavan97/github-repos-search.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "credential",
+    "github",
+    "repos"
+  ],
+  "author": "Meng Zong<meng.github@sfastmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
