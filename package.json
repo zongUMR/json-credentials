@@ -1,6 +1,6 @@
 {
-  "name": "json-credentials",
-  "version": "1.0.0",
+  "name": "json-credentials2",
+  "version": "0.0.2",
   "description": "A package to serialize and deserialize credential format file",
   "main": "index.js",
   "homepage": "https://github.com/zongUMR/json-credentials",
